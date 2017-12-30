@@ -35,11 +35,17 @@ This is the project that was submitted for my capstone project. My chosen
 
 ### Total Points Earned = 1600
 
+## Video Walk Through
+
+The Video Walk through is located at vid.theoremforge.com/
+
 ## Notes
 
 The source media has been removed for submission.
 
 All Media is currently being streamed from: vid.theoremforge.com
+
+This was compiled and ran on a Nexus 6 running android 6.0.1
 
 Unity Version: 2017.1.1f1
 Googlevr: 1.70.0
