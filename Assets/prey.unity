@@ -145,7 +145,7 @@ MonoBehaviour:
   gainDb: 0
   occlusionEnabled: 0
   playOnAwake: 1
-  sourceClip: {fileID: 8300000, guid: c151bd9234d1def4e96f795e4ea4bbf9, type: 3}
+  sourceClip: {fileID: 8300000, guid: 5f2c3e42e224fe6429886b3af2d1f1e8, type: 3}
   sourceLoop: 1
   sourceMute: 0
   sourcePitch: 1
@@ -936,7 +936,7 @@ Prefab:
         type: 2}
       propertyPath: sourceClip
       value: 
-      objectReference: {fileID: 8300000, guid: c151bd9234d1def4e96f795e4ea4bbf9, type: 3}
+      objectReference: {fileID: 8300000, guid: 5f2c3e42e224fe6429886b3af2d1f1e8, type: 3}
     - target: {fileID: 114492226323738582, guid: 67490c8d7486a574ca1e6e8dd59e841e,
         type: 2}
       propertyPath: sourceVolume
@@ -4847,7 +4847,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4d064b75dc0e1444b8038cabfbabd9bb, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 0.2
   m_Pitch: 1
@@ -5104,7 +5104,7 @@ VideoPlayer:
   m_DirectAudioVolumes:
   - 1
   m_Url: http://vid.theoremforge.com/Version01/victims.mp4
-  m_EnabledAudioTracks: 00
+  m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
